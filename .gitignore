@@ -1,0 +1,5 @@
+!/build/reports/tests/test/
+/build/
+/.idea/
+/.gradle/
+/settings.gradle
