@@ -5,4 +5,9 @@ public class ClientDB {
         // todo
         return false;
     }
+
+    public static boolean isConnectionSuccessfullyStatic(String type){
+        // todo
+        return false;
+    }
 }
